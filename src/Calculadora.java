@@ -2,5 +2,5 @@
 public class Calculadora{
 	public int sumar(int a)
 	
-	public int resta():
+	public int resta(int b):
 }
